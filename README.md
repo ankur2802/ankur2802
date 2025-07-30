@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working in [TATA Consultancy Services](https://www.tcs.com/)
 
-- 🌱 I’m currently learning **React, Spring Boot**
+- 🌱 I’m currently learning **Spring Boot**
 
-- 💬 Ask me about **Java, MySQL, Servlets**
+- 💬 Ask me about **Java, MySQL, SpringBoot**
 
 - 📫 How to reach me **akrs.0028@gmail.com**
 
