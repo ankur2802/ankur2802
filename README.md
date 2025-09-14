@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **akrs.0028@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1aAcm5wUry61KY_xi5MgIm2KGWIoFhoKH/view](https://drive.google.com/file/d/13A4ZKMWa7ahWgsFOKFHES1G_59nvs56e/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1aAcm5wUry61KY_xi5MgIm2KGWIoFhoKH/view](https://drive.google.com/file/d/1BuW75-WGwVpg7CZkwGCTdl7YoWK2QJ5d/view)
 
 - ⚡ Interested in   **Cricket, Mobile Games, Coding**
 
